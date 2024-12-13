@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
+        <img src="/best-buy-logo-1.png" alt="Best Buy Logo">
       </a>
       Admin Portal
     </div>
@@ -16,7 +16,7 @@
   </nav>
 </template>
 
-<script>
+<script>``
 export default {
   name: 'TopNav',
   data() {
